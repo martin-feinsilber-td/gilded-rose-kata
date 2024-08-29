@@ -1,13 +1,12 @@
-﻿using NSubstitute;
 using NUnit.Framework;
 
-namespace Tests.Editor
+namespace GildedRoseKata.Tests.Editor
 {
     [TestFixture]
-    public class MyClassShould
+    public class GildedRoseShould 
     {
         [Test]
-        public void Pass_This_Test()
+        public void Rename_Me()
         {
             Assert.Pass();
         }
